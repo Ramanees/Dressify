@@ -6,7 +6,7 @@
 
 ## 🌐 Live Demo
 
-[🔗 View Live Site]([https://your-deployed-url.com](https://dressify-feqw.onrender.com/))
+[🔗 View Live Site](https://ramanees.github.io/Dressify/)
 
 ---
 
